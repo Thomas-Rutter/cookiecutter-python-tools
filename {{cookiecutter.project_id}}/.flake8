@@ -1,0 +1,5 @@
+[flake8]
+exclude = build,dist
+max-complexity = 10
+application-import-names = {{cookiecutter.module_name}}
+import-order-style = google

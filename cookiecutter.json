@@ -1,0 +1,7 @@
+{
+    "project_name": "My Project",
+    "description": "A sentence describing the project",
+    "module_name": "{{cookiecutter.project_name|lower|replace(' ', '_')}}",
+    "project_id": "{{cookiecutter.project_name|lower|replace(' ', '-')}}",
+    "setup_repo": "y"
+}
