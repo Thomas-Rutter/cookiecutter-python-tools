@@ -4,9 +4,9 @@ _Description:_ A template to create python projects.
 
 ## Usage
 
-To create the project's main folder and it's structure locally run:
+To create the project's main folder and it's structure go to the parent dir of this cookiecutter and run:
 
-    cookiecutter <something>
+    cookiecutter cookiecutter-python-tools/
 
 You will be prompted to provide some details to generate the project:
 
