@@ -1,6 +1,6 @@
 # Python Tool Project Template
 
-_Description:_ A template to create python projects.
+_Description:_ A template to create python projects with a decent structure.
 
 ## Usage
 
