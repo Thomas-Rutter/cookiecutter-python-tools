@@ -23,7 +23,7 @@ def get_version():
     Returns:
         str: The version.
     """
-    init_file = Path("./src/torrent_downloader/__init__.py")
+    init_file = Path("./src/{{cookiecutter.module_name}}/__init__.py")
     with open(init_file, "r") as read_file:
         lines = read_file.readlines()
     for line in lines:
