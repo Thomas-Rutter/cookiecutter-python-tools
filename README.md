@@ -1,7 +1,6 @@
 # Python Tool Project Template
 
-_Description:_ A template to create python projects with a decent structure.
-
+_Description:_ A template to create python projects with a decent structure and layout.
 ## Usage
 
 To create the project's main folder and it's structure go to the parent dir of this cookiecutter and run:
