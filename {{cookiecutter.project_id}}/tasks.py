@@ -58,7 +58,7 @@ def lint(c):
     Args:
         c: context arg to pass to invoke.
     """
-    c.run("flake8 .")
+    c.run("flake8 src test")
     print("No linting errors found.")
 
 
