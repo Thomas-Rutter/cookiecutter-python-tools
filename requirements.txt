@@ -2,6 +2,6 @@ flake8
 invoke
 pytest
 sphinx
-sphinx--rtd-theme
 sphinx-autoapi
+sphinx-rtd-theme
 tox
