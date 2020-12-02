@@ -25,7 +25,7 @@ To run the linter run `invoke lint`.
 ## Documentation
 
 The full docs exist [here](.\build\sphinx\html\index.html).
-If not there then run `invoke preview-docs` and it will open them in a broswer.
+If not there then run `invoke preview-docs` and it will open them in a browser.
 To publish new docs to Read My Docs server, run `invoke docs`
 
 ## Testing
